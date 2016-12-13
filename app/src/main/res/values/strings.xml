@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">ExamenUF1-2016</string>
+    <string name="txt_nombre_preguntes">Nombre de preguntes</string>
+    <string name="et_preguntes">Ex. 10</string>
+    <string name="txt_comencar">Començar!</string>
+    <string name="configuraci_inicial">Configuració inicial</string>
+    <string name="txt_nom">Nom</string>
+    <string name="et_nombre">Ex. Joan</string>
+    <string name="txt_tipus_preguntes">Tipus de preguntes</string>
+    <string name="info">* Per mostrar el botó, selecciona el tipus de preguntes.</string>
+    <string name="txt_test">Test</string>
+    <string name="txt_pregunta">Pregunta actual</string>
+    <string name="txt_result">Resultado</string>
+    <string name="txt_boton_test">Següent</string>
+    <string name="resultat_info">Resultat test</string>
+    <string name="nombre_aciertos">Encertat:</string>
+    <string name="nombre_errores">Errors:</string>
+    <string name="txt_resultado_info">Enhorabona (Aquí aniria el nom)</string>
+    <string name="puntuacio">Puntuació: </string>
+    <string name="et_resultat">Ex. 4</string>
+    <array name="preguntas">
+        <item>Selecciona un tipus</item>
+        <item>Sumes</item>
+        <item>Restes</item>
+        <item>Multiplicacions</item>
+        <item>Divisions</item>
+        <item>General</item>
+    </array>
+</resources>
